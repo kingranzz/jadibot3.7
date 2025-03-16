@@ -22,7 +22,7 @@ global.saveSetting = () =>
 /// OWNER INFORMATION
 global.owner = {
   name: "RanZ",
-  number: "62895326205615",
+  number: "6281558558517",
 };
 
 global.db = {
